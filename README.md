@@ -11,4 +11,5 @@ $ python -m pip install urllib3
 Alternatively, you can grab the latest source code from GitHub:
 
 $ git clone git://github.com/urllib3/urllib3.git
+
 $ python setup.py install
